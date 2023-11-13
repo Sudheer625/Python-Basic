@@ -1,0 +1,15 @@
+a=10
+b=float(a)
+print(b)
+c=str(a)
+print(c)
+d=complex(a)
+print(d)
+e=bool(a)
+print(e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+'''type conversion means converting one datatype to another datatype without losing it's original value'''
